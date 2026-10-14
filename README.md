@@ -1,33 +1,22 @@
 # 福纳斯
 
-| [中文](README.md) | [English](README.en.md) |
+[中文](README.md) | [English](README.en.md)
 
-闲置手机秒变网络附加存储（Network Attached Storage，NAS）
+闲置手机秒变网络附加存储（Network Attached Storage，NAS）系统
 
-## 1. 苹果手机/平板
+## 1. 指南
 
-### 1.1 使用 UTM 虚拟机运行 NAS 系统
+### 1.1 在当前网站阅读
 
-### 1.2 通过 iSH 搭建 NAS 系统
+请点击[指南](docs/index.md)
 
-### 1.3 常用工具
+### 1.2 构建网页
 
-1. [libimobiledevice](https://libimobiledevice.org/)
+1. 下载【指南】源文件
+2. 修改默认配置文件 zensical.toml
+3. 使用 **zensical** 工具生成网页
 
-## 2. 安卓手机/平板
-
-### 2.1 使用 QEMU 运行 NAS 系统
-
-### 2.2 通过 Termux 搭建 NAS 系统
-
-### 2.3 常用工具
-
-1. [Android SDK Platform-Tools](https://dl.google.com/android/repository/platform-tools-latest-windows.zip)
-
-## 3. 鸿蒙手机/平板
-
-### 3.1 使用 QEMU 运行 NAS 系统
-
-### 3.2 通过 Termux 搭建 NAS 系统
-
-### 3.3 常用工具
+``` bash
+zensical build
+zensical serve 
+···

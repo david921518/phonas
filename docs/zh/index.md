@@ -35,3 +35,9 @@ icon: lucide/rocket
 ### 3.3 常用工具
 
 ## 4. 实例
+
+[厂商列表](vendors/index.md)
+
+## 5. 参考资料
+
+- [PHONEDB](https://phonedb.net/)

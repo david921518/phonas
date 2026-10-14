@@ -19,6 +19,14 @@
 - **初始系统**：Android 4.2.2 (Jelly Bean) + TouchWiz 5.0 UI。
 - **可升级至**：Android 5.0.1 Lollipop
 
+## 硬件改造
+
+### 电池
+
+- **型号**：B600BE 2600mAh
+- **类型**：3.8 V 锂离子
+- **充电限制电压**：4.4 V
+
 ## 安装 Termux 提供 NAS 功能
 
 ## 安装 Nura 提供 NAS 功能

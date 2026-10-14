@@ -19,5 +19,19 @@
 - **初始系统**：Android 4.0 (Ice Cream Sandwich)，搭配 TouchWiz UI。
 - **可升级至**：部分地区的 Android 4.1.2 (Jelly Bean)
 
+## 硬件改造
+
+### 电池
+
+- **型号**：EB425161LU 1500mAh
+- **类型**：3.8 V 锂离子
+- **充电限制电压**：4.35 V
+
 ## 安装 Nura 提供 NAS 功能
 
+## 参考资料
+
+- [FrankenKernel](https://github.com/pavlepiramida/FrankenKernel)
+- [KERNEL|Kylessopen|FrankenKernel | XDA Forums](https://xdaforums.com/t/kernel-kylessopen-frankenkernel.3567381/)
+- [CyanogenMod 11 device tree for the Samsung GT-S7562](https://github.com/oraveczandrew/android_device_samsung_kylessopen)
+- [CM11|GT-S7562|Samsung Galaxy S Duos Kitkat 4.4.4 | XDA Forums](https://xdaforums.com/t/cm11-gt-s7562-samsung-galaxy-s-duos-kitkat-4-4-4.3024762/)

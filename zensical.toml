@@ -1,10 +1,10 @@
 [project]
-site_url = "https://phonas.top/demo/phonas/"
-site_name = "PhoNAS project"
-# site_description = "Turn an idle phone into a NAS instantly"
-# site_author = "david921518"
+site_url = "https://phonas.top/demo/guide/"
+site_name = "福纳斯项目"
+site_description = "闲置手机秒变网络存储(NAS)系统"
+site_author = "david921518"
 
-# copyright = "Copyright &copy; 2026 david921518"
+copyright = "Copyright &copy; 2026 david921518"
 
 # repo_url = "https://github.com/david921518/phonas"
 # repo_name = "david921518/phonas"
@@ -15,11 +15,6 @@ nav = [
         { "首页" = "zh/index.md" },
         { "指南" = "zh/guide.md" },
         { "5分钟了解Markdown" = "zh/markdown.md" },
-    ]},
-    { "English" = [
-        { "Home" = "en/index.md" },
-        { "Guide" = "en/guide.md" },
-        { "Markdown in 5min" = "en/markdown.md" },
     ]},
 ]
 
