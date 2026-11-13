@@ -19,4 +19,4 @@
 ``` bash
 zensical build
 zensical serve 
-···
+```

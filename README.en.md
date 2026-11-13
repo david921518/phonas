@@ -19,4 +19,4 @@ Please click [Guide](docs/index.en.md)
 ``` bash
 zensical build
 zensical serve 
-···
+```

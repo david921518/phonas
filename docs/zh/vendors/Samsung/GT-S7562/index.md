@@ -1,4 +1,4 @@
-# 盖乐世S Duos (Galaxy S Duos)
+# 盖乐世S7562 (Galaxy Trend Duos)
 
 ## 基本信息
 

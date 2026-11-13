@@ -1,4 +1,4 @@
-# Galaxy S Duos
+# Galaxy Trend Duos
 
 ## 基本信息
 
