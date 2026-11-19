@@ -6,5 +6,6 @@
 
   <!-- PhoNAS Projects -->
   <project path="resources/vendors/Samsung/GT-I9500" name="phonas_vendors_Samsung_GT-I9500" remote="res" />
+  <project path="resources/vendors/Huawei/Che1-CL20" name="phonas_vendors_Huawei_Che1-CL20" remote="res" />
 
 </manifest>

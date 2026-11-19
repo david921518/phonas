@@ -10,6 +10,8 @@ sudo apt-get install -y git-lfs
 #git lfs install
 git lfs install --skip-repo
 
+git config --global credential.helper store
+
 repo init -u https://github.com/david921518/phonas.git -b main --git-lfs --no-clone-bundle
 
 mkdir -p .repo/local_manifests
