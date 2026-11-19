@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<manifest>
+
+  <remote  name="res"
+	  fetch="http://192.168.0.138:3000/KPC" />
+
+  <!-- PhoNAS Projects -->
+  <project path="resources/vendors/Samsung/GT-I9500" name="phonas_vendors_Samsung_GT-I9500" remote="res" />
+
+</manifest>

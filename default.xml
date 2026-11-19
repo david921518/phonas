@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<manifest>
+
+  <remote  name="github"
+           fetch=".."
+           review="review.phonas.top" />
+
+  <remote  name="private"
+           fetch="ssh://git@github.com" />
+
+  <default revision="refs/heads/main"
+           remote="github"
+           sync-c="true"
+           sync-j="4" />
+
+  <contactinfo bugurl="go/repo-bug" />
+
+  <!-- PhoNAS Projects -->
+
+</manifest>
